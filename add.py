@@ -8,4 +8,6 @@ print(a*b)
 arvind
 jag
 
-HRS
+HRS 
+
+new code
